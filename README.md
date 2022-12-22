@@ -38,3 +38,8 @@ Always keen to learn new software development skills and tools to improve my kno
 
  * [**Linkedin Profile**](https://www.linkedin.com/in/federica-rossi-a11071227/)
 
+## 📉 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericaHub)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericaHub)](https://github.com/anuraghazra/github-readme-stats)
