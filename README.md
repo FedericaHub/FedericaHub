@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hello, World! 🌐 I am Federica!
 
-<!--
-**FedericaHub/FedericaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About 
 
-Here are some ideas to get you started:
+Web Developer in London(UK) with a background in Casino Business as a Croupier of American Roulette, Blackjack, Three Card Poker and Poker Texas Hold'em. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certified Junior SEO Specialist skilled in: Copywriting, Microsoft Excel, Data Analysis, Google Data Studio and SEO Audit.
+
+Always keen to learn new software development skills and tools to improve my knowledge. My goal is to make the world a better place through the use of technology and software.
+
+## 💻 Tech Stack
+
+* #### Languages:
+
+  * ##### ***HTML5🔹CSS3🔹ES6JAVASCRIPT🔹RUBY🔹MARKDOWN***
+
+* #### Frameworks:
+
+  * ##### ***RUBY ON RAILS🔹BOOTSTRAP***
+
+* #### Databases:
+
+  * ##### ***POSTGRESQL🔹SQLITE***
+  
+* #### Tools:
+
+  * ##### ***SLACK🔹VISUAL STUDIO CODE🔹FIGMA🔹TRELLO🔹GIT🔹FONTAWESOME🔹COLORHUNT***
+
+* #### Hostings:
+
+  * ##### ***HEROKU***
+
+* #### Resources:
+
+   * #####  ***GOOGLE🔹STACKOVERFLOW🔹CODECADEMY🔹UDEMY🔹CODEWARS*** 
+
+## 🌀 Contacts
+
+ * [**Linkedin Profile**](https://www.linkedin.com/in/federica-rossi-a11071227/)
+
