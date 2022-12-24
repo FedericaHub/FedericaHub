@@ -4,7 +4,7 @@
 
 Web Developer in London (United Kingdom), graduated from Le Wagon Bootcamp, with a background in Casino Business as a Croupier of American Roulette, Blackjack, Three Card Poker and Poker Texas Hold'em. 
 
-Certified Junior SEO Specialist skilled in: Copywriting, Microsoft Excel, Data Analysis, Google Data Studio and SEO Audit.
+Certified SEO Specialist skilled in: Copywriting, Microsoft Excel, Data Analysis, Google Data Studio and SEO Audit.
 
 Always keen to learn new software development skills and tools to improve my knowledge. My goal is to make the world a better place through the use of technology and software.
 
