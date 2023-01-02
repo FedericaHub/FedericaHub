@@ -10,29 +10,29 @@ Always keen to learn new software development skills and tools to improve my kno
 
 ## 💻 Tech Stack
 
-* #### Languages:
+📘 **Languages:**
 
-  * ##### ***HTML5 🔹 CSS3 🔹 ES6JAVASCRIPT 🔹 RUBY 🔹 MARKDOWN***
+  * ***HTML5 🔹 CSS3 🔹 ES6JAVASCRIPT 🔹 RUBY 🔹 MARKDOWN***
 
-* #### Frameworks:
+📘 **Frameworks:**
 
-  * ##### ***RUBY ON RAILS 🔹 BOOTSTRAP***
+  * ***RUBY ON RAILS 🔹 BOOTSTRAP***
 
-* #### Databases:
+📘 **Databases:**
 
-  * ##### ***POSTGRESQL 🔹 SQLITE***
+  * ***POSTGRESQL 🔹 SQLITE***
   
-* #### Tools:
+📘 **Tools:**
 
-  * ##### ***SLACK 🔹 VISUAL STUDIO CODE 🔹 FIGMA 🔹 TRELLO 🔹 GIT 🔹 FONTAWESOME 🔹 COLORHUNT***
+  * ***SLACK 🔹 VISUAL STUDIO CODE 🔹 FIGMA 🔹 TRELLO 🔹 GIT 🔹 FONTAWESOME 🔹 COLORHUNT***
 
-* #### Hostings:
+📘 **Hostings:**
 
-  * ##### ***HEROKU***
+  * ***HEROKU***
 
-* #### Resources:
+📘 **Resources:**
 
-   * #####  ***GOOGLE 🔹 STACKOVERFLOW 🔹 CODECADEMY 🔹 UDEMY 🔹 CODEWARS*** 
+   * ***GOOGLE 🔹 STACKOVERFLOW 🔹 CODECADEMY 🔹 UDEMY 🔹 CODEWARS*** 
 
 ## 🌀 Contacts
 
