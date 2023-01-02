@@ -12,19 +12,19 @@ Always keen to learn new software development skills and tools to improve my kno
 
 * #### Languages:
 
-  * ##### ***HTML5 🔹 CSS3🔹ES6JAVASCRIPT🔹RUBY🔹MARKDOWN***
+  * ##### ***HTML5 🔹 CSS3 🔹 ES6JAVASCRIPT 🔹 RUBY 🔹 MARKDOWN***
 
 * #### Frameworks:
 
-  * ##### ***RUBY ON RAILS🔹BOOTSTRAP***
+  * ##### ***RUBY ON RAILS 🔹 BOOTSTRAP***
 
 * #### Databases:
 
-  * ##### ***POSTGRESQL🔹SQLITE***
+  * ##### ***POSTGRESQL 🔹 SQLITE***
   
 * #### Tools:
 
-  * ##### ***SLACK🔹VISUAL STUDIO CODE🔹FIGMA🔹TRELLO🔹GIT🔹FONTAWESOME🔹COLORHUNT***
+  * ##### ***SLACK 🔹 VISUAL STUDIO CODE 🔹 FIGMA 🔹 TRELLO 🔹 GIT 🔹 FONTAWESOME 🔹 COLORHUNT***
 
 * #### Hostings:
 
@@ -32,7 +32,7 @@ Always keen to learn new software development skills and tools to improve my kno
 
 * #### Resources:
 
-   * #####  ***GOOGLE🔹STACKOVERFLOW🔹CODECADEMY🔹UDEMY🔹CODEWARS*** 
+   * #####  ***GOOGLE 🔹 STACKOVERFLOW 🔹 CODECADEMY 🔹 UDEMY 🔹 CODEWARS*** 
 
 ## 🌀 Contacts
 
