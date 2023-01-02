@@ -10,7 +10,7 @@ Always keen to learn new software development skills and tools to improve my kno
 
 ## 💻 Tech Stack
 
-🔵 #### Languages:
+* #### Languages:
 
   * ##### ***HTML5 🔹 CSS3 🔹 ES6JAVASCRIPT 🔹 RUBY 🔹 MARKDOWN***
 
