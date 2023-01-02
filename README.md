@@ -36,7 +36,7 @@ Always keen to learn new software development skills and tools to improve my kno
 
 ## 🌀 Contacts
 
- * [**Linkedin Profile**](https://www.linkedin.com/in/federica-rossi-a11071227/)
+ 🟦 [**Linkedin Profile**](https://www.linkedin.com/in/federica-rossi-a11071227/)
 
 ## 📉 Stats
 
