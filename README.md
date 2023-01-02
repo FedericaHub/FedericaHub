@@ -12,7 +12,7 @@ Always keen to learn new software development skills and tools to improve my kno
 
 * #### Languages:
 
-  🔵 ***HTML5 🔹 CSS3 🔹 ES6JAVASCRIPT 🔹 RUBY 🔹 MARKDOWN***
+  * ***HTML5 🔹 CSS3 🔹 ES6JAVASCRIPT 🔹 RUBY 🔹 MARKDOWN***
 
 * #### Frameworks:
 
